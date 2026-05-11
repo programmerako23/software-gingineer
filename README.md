@@ -32,14 +32,14 @@ Your **capstone project is your first portfolio piece**. Make sure it's live, do
 
 ### 🛤️ Pick Your Track
 
-| Track | Best For | Avg Entry Salary (PH, 2026) |
+| Track | Best For |
 |---|---|
-| **Frontend** | Creative, UI-focused
-| **Backend** | Logic, APIs, databases
-| **Full Stack** | Versatility, startups
-| **Mobile (Android/iOS/Flutter)** | Apps, freelance
-| **QA/Automation** | Testing, detail-oriented
-| **DevOps/Cloud** | Infrastructure, remote jobs
+| **Frontend** | Creative, UI-focused |
+| **Backend** | Logic, APIs, databases |
+| **Full Stack** | Versatility, startups |
+| **Mobile (Android/iOS/Flutter)** | Apps, freelance |
+| **QA/Automation** | Testing, detail-oriented |
+| **DevOps/Cloud** | Infrastructure, remote jobs |
 
 ### 🔧 Universal Foundations (All Tracks)
 - **Version Control:** Git & GitHub — branches, PRs, commit messages
